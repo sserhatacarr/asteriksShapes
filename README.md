@@ -1,6 +1,6 @@
-# Diamond Pattern Generator
+# Pattern Generator
 
-This Java program generates a diamond pattern based on user input.
+This Java program generates a pattern based on user input.
 
 ## How to Use
 
